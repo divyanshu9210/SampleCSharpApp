@@ -6,7 +6,7 @@ namespace SampleGitApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is a sample console app!");
+            Console.WriteLine("final changes to put on master");
         }
     }
 }
